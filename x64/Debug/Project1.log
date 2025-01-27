@@ -1,0 +1,43 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Project1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+C:\Users\PC\source\repos\c++\Task Manager winform\Project1\Project1\MyForm.h(723,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\Project1\Project1\MyForm.h(726,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\Project1\Project1\MyForm.h(729,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\Project1\Project1\MyForm.h(732,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\Project1\Project1\MyForm.h(735,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\Project1\Project1\MyForm.h(738,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\Project1\Project1\MyForm.h(741,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\Project1\Project1\MyForm.h(703,31): warning C4101: pmc: неиспользованная локальная переменная
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\Project1\Project1\MyForm.h(807,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\Project1\Project1\MyForm.h(808,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\Project1\Project1\MyForm.h(833,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\Project1\Project1\MyForm.h(834,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "MyForm.cpp")
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\PC\source\repos\c++\Task Manager winform\Project1\Project1\MyForm.h(637,1): warning C4715: windowForm::MyForm::ListViewItemComparer::Compare: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\PC\source\repos\c++\Task Manager winform\Project1\x64\Debug\TaskManager.exe
