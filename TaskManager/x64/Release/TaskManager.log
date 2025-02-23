@@ -1,0 +1,40 @@
+﻿  TaskManager.cpp
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\TaskManagerForm.h(688,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "TaskManager.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\TaskManagerForm.h(691,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "TaskManager.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\TaskManagerForm.h(694,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "TaskManager.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\TaskManagerForm.h(697,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "TaskManager.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\TaskManagerForm.h(700,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "TaskManager.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\TaskManagerForm.h(703,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "TaskManager.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\TaskManagerForm.h(706,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "TaskManager.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\TaskManagerForm.h(668,31): warning C4101: pmc: неиспользованная локальная переменная
+  (компиляция исходного файла "TaskManager.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\TaskManagerForm.h(773,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "TaskManager.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\TaskManagerForm.h(772,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "TaskManager.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\TaskManagerForm.h(801,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "TaskManager.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\TaskManagerForm.h(800,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "TaskManager.cpp")
+  
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\TaskManagerForm.h(602,1): warning C4715: TaskManager::TaskManagerForm::ListViewItemComparer::Compare: значение возвращается не при всех путях выполнения
+  TaskManager.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TaskManager.vcxproj -> C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\x64\Release\TaskManager.exe

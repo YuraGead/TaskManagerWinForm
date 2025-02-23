@@ -1,0 +1,3 @@
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\x64\Release\TaskManager.vcxproj.AssemblyReference.cache
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\x64\Release\TaskManager.TaskManagerForm.resources
+C:\Users\PC\source\repos\c++\Task Manager winform\TaskManager\TaskManager\x64\Release\TaskManager.vcxproj.GenerateResource.cache
