@@ -75,6 +75,9 @@ namespace TaskManager {
 	private:
 
 
+// BEGINNING OF THE GENERATED CODE
+
+
 #pragma region Windows Form Designer generated code
 
 		void InitializeComponent(void)
@@ -465,6 +468,11 @@ namespace TaskManager {
 		}
 
 #pragma endregion
+
+
+// END OF GENERATED CODE
+
+
 		// Class for sorting listview on click                         
 		ref class ListViewItemComparer : public System::Collections::IComparer
 		{
